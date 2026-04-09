@@ -1,0 +1,7 @@
+# Visual Studio temp files
+**/.vs
+*.suo
+*.obj
+*.log
+
+node_modules/
