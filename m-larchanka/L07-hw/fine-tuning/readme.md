@@ -17,3 +17,9 @@
 Для Python 3.14 - нет, не поддерживается!
 Только для 3.12, а лучще - 3.11
 
+
+# Materials/See Also
+
+- https://huggingface.co/docs/transformers/main_classes/trainer
+
+

@@ -236,3 +236,30 @@ Tcp        CLOSE_WAIT    BtoTestWs        47649
 
 Куда-то оно ходит... зачем-то...
 
+
+## Советуют intel-extension-for-pytorch
+
+```
+pip install intel-extension-for-pytorch
+ERROR: Could not find a version that satisfies the requirement intel-extension-for-pytorch (from versions: none)
+ERROR: No matching distribution found for intel-extension-for-pytorch
+```
+
+Другая команда:
+```
+python -m pip install intel-extension-for-pytorch --index-url https://pytorch-extension.intel.com/release-whl/stable/xpu/us/
+```
+
+Info:
+- Supported Versions: Generally Python 3.9, 3.10, 3.11, or 3.12.
+- Check your version with python --version and ensure you are using a 64-bit installation.
+
+Verify OS and Hardware
+- Linux/WSL2: IPEX is primarily supported on Linux. Windows users should use WSL2 for full GPU (XPU) support.
+- Native Windows: Native Windows support is limited to specific hardware like Intel® Arc™ GPUs. 
+
+**Important Note:** Intel has announced that IPEX will be retired by **March 2026**, as its features are being upstreamed directly into [native PyTorch](https://pytorch.org/get-started/locally/). Moving forward, Intel recommends using standard PyTorch for Intel hardware support.
+
+
+
+

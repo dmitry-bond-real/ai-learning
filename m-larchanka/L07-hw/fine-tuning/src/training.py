@@ -6,7 +6,7 @@ import os
 import torch
 # Максимально использовать все ядра CPU
 # там капец какой-то с этими ядрами! Похоже он просто запускает кучу копий этого скрипта
-_cpu_count = (os.cpu_count() or 1) - 1
+_cpu_count = 8 # (os.cpu_count() or 1) - 1
 torch.set_num_threads(_cpu_count)
 torch.set_num_interop_threads(_cpu_count)
 print(f"CPU threads: {_cpu_count}, torch threads: {torch.get_num_threads()}/{torch.get_num_interop_threads()}", flush=True)
@@ -97,14 +97,15 @@ def main():
     print("Create trainingArgs...", flush=True)
     training_args = TrainingArguments(
         output_dir="./tinyllama-json",
-        per_device_train_batch_size=1,
+        #per_device_train_batch_size=1,
         gradient_accumulation_steps=4,
         num_train_epochs=2,
         learning_rate=2e-4,
         #logging_steps=10,
-        save_strategy="epoch",
+        save_strategy="steps", #save_strategy="epoch",
+        save_steps=1,
         report_to="none",
-        fp16=False,
+        #fp16=False,
 
         logging_steps=1,  # Логировать каждые 10 шагов (по умолчанию 500)
         logging_strategy="steps",
@@ -113,9 +114,15 @@ def main():
         do_train=True,
         do_eval=False, # Также убедитесь, что do_eval установлен в False
         
-        dataloader_pin_memory=False,
-        dataloader_num_workers=0,
+        #dataloader_pin_memory=False,
+        #dataloader_num_workers=0,
         #dataloader_num_workers=max(1, 14) # (_cpu_count := os.cpu_count() or 1) - 1),    
+
+        use_cpu=True,           # Принудительно CPU
+        bf16=True,              # Смешанная точность (для новых CPU)
+        dataloader_num_workers=0, # Количество ядер
+        dataloader_pin_memory=True,
+        per_device_train_batch_size=8, 
     )
 
     print("Create trainer...", flush=True)
