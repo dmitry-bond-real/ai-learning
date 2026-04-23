@@ -68,7 +68,7 @@ def main():
     print(f"Loading model from Hugging Face: {model_name}...", flush=True)
     model = AutoModelForCausalLM.from_pretrained(
         model_name,
-        device_map="cpu",
+        device_map="auto", #"cpu",
         cache_dir="model_cache"
     )
     print(f"✓ Model loaded successfully! Parameters: {model.num_parameters():,}", flush=True)
@@ -97,7 +97,7 @@ def main():
     print("Create trainingArgs...", flush=True)
     training_args = TrainingArguments(
         output_dir="./tinyllama-json",
-        #per_device_train_batch_size=1,
+        per_device_train_batch_size=1,
         gradient_accumulation_steps=4,
         num_train_epochs=2,
         learning_rate=2e-4,
@@ -105,24 +105,24 @@ def main():
         save_strategy="steps", #save_strategy="epoch",
         save_steps=1,
         report_to="none",
-        #fp16=False,
+        fp16=False,
 
         logging_steps=1,  # Логировать каждые 10 шагов (по умолчанию 500)
         logging_strategy="steps",
         
-        eval_strategy="no", #evaluation_strategy="no",  # Не выполнять оценку во время обучения
-        do_train=True,
-        do_eval=False, # Также убедитесь, что do_eval установлен в False
+        #eval_strategy="no", #evaluation_strategy="no",  # Не выполнять оценку во время обучения
+        #do_train=True,
+        #do_eval=False, # Также убедитесь, что do_eval установлен в False
         
         #dataloader_pin_memory=False,
         #dataloader_num_workers=0,
         #dataloader_num_workers=max(1, 14) # (_cpu_count := os.cpu_count() or 1) - 1),    
 
-        use_cpu=True,           # Принудительно CPU
-        bf16=True,              # Смешанная точность (для новых CPU)
-        dataloader_num_workers=0, # Количество ядер
-        dataloader_pin_memory=True,
-        per_device_train_batch_size=8, 
+        #use_cpu=True,           # Принудительно CPU
+        #bf16=True,              # Смешанная точность (для новых CPU)
+        #dataloader_num_workers=4, # Количество ядер
+        #dataloader_pin_memory=True,
+        #per_device_train_batch_size=8, 
     )
 
     print("Create trainer...", flush=True)
@@ -142,7 +142,7 @@ def main():
 
     print("Finished.", flush=True)
 
-    input("Нажмите Enter, чтобы выйти...")
+    #input("Нажмите Enter, чтобы выйти...")
 
 
 if __name__ == "__main__":
