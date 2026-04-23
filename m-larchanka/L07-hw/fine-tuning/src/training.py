@@ -24,12 +24,16 @@ model_name = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
 print("Creating tokenizer...", flush=True)
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 tokenizer.pad_token = tokenizer.eos_token
+print(f"✓ Tokenizer loaded from {model_name}", flush=True)
 
 # ==== model ====
+print(f"Loading model from Hugging Face: {model_name}...", flush=True)
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
-    device_map="auto"
+    device_map="auto",
+    cache_dir="model_cache"
 )
+print(f"✓ Model loaded successfully! Parameters: {model.num_parameters():,}", flush=True)
 model.config.use_cache = False
 
 # ==== LoRA ====
