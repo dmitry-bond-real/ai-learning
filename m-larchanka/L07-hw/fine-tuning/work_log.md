@@ -12,6 +12,11 @@ role: python developer expert
 task: prepare requirements.txt file for this folder
 ```
 
+шаг 3:
+```
+
+```
+
 
 
 # Errors
@@ -194,4 +199,40 @@ python.exe -m pip install --upgrade pip
 
 Запустил...
 Все равно - оно вроде как висит...
+
+
+## Пишет
+```
+config.json: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 608/608 [00:00<00:00, 606kB/s]
+W:\edu\Larchanka\2026-04-06-AI\L07\fine-tuning\.venv\Lib\site-packages\huggingface_hub\file_download.py:138: 
+	UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files 
+	but your machine does not support them in W:\edu\Larchanka\2026-04-06-AI\L07\fine-tuning\src\model_cache\models--TinyLlama--TinyLlama-1.1B-Chat-v1.0. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+```
+
+
+## Пытался указать dataloader_num_workers=14
+
+Оказывается оно тупо запускает кучу копий того же самого training.py в итоге выходит фигня!
+Сначала пришлось переделать чтобы все занести внутрь функции main,
+а потом все равно вернуть dataloader_num_workers=0
+
+
+## Пытался указать torch.set_num_threads() и torch.set_num_interop_threads()
+
+Ну да, оно создало процесс Python с кучей потоков. На старте оно использует 100% CPU, 
+а потом откатывается на %5 CPU и так висит...
+
+Папка tinyllama-json остается пустой...
+
+
+## Что пишет TaskInfo
+
+```
+|Protocol| |State|       |Loc Name|   |Loc Port||Rem Name|                                    |Rem Port|
+Tcp        ESTABLISHED   BtoTestWs        47648 server-108-138-51-21.waw51.r.cloudfront.net   https 
+Tcp        CLOSE_WAIT    BtoTestWs        47649                                                
+```
+
+Куда-то оно ходит... зачем-то...
 
