@@ -193,8 +193,8 @@ python.exe -m pip install --upgrade pip
 потом:
 ```
 py -3.11 -m venv .venv
-pip install -r requirements.txt
 python.exe -m pip install --upgrade pip
+pip install -r requirements.txt
 ```
 
 Запустил...
@@ -283,4 +283,5 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 ```
 
 Теперь оно молча отваливается сразу после надписи "Creating tokenizer..."
+Похоже это именно torch с поддержкой CUDA валиться...
 

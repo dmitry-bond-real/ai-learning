@@ -20,7 +20,6 @@ from datasets import load_dataset
 
 print("Continue...", flush=True)
 
-#model_name = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
 model_name = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
 
 
@@ -93,37 +92,62 @@ def main():
 
     logging.set_verbosity_info()
 
+    def getAgrsForCpu():
+        args = TrainingArguments(
+            output_dir="./tinyllama-json",
+            gradient_accumulation_steps=4,
+            num_train_epochs=1,
+            learning_rate=2e-4,
+            save_strategy="steps", #save_strategy="epoch",
+            save_steps=1,
+            report_to="none",
+
+            logging_steps=1,  # Логировать каждые 10 шагов (по умолчанию 500)
+            logging_strategy="steps",
+            
+            use_cpu=True,           # Принудительно CPU
+            bf16=True,              # Смешанная точность (для новых CPU)
+            dataloader_num_workers=4, # Количество ядер
+            dataloader_pin_memory=True,
+            per_device_train_batch_size=8, 
+        )
+        return args
+    
+    def getAgrsForCuda():
+        args = TrainingArguments(
+            output_dir="./tinyllama-json",
+            per_device_train_batch_size=1,
+            gradient_accumulation_steps=4,
+            num_train_epochs=2,
+            learning_rate=2e-4,
+            #logging_steps=10,
+            save_strategy="steps", #save_strategy="epoch",
+            save_steps=1,
+            report_to="none",
+            fp16=False,
+
+            logging_steps=1,  # Логировать каждые 10 шагов (по умолчанию 500)
+            logging_strategy="steps",
+            
+            #eval_strategy="no", #evaluation_strategy="no",  # Не выполнять оценку во время обучения
+            #do_train=True,
+            #do_eval=False, # Также убедитесь, что do_eval установлен в False
+            
+            #dataloader_pin_memory=False,
+            #dataloader_num_workers=0,
+            #dataloader_num_workers=max(1, 14) # (_cpu_count := os.cpu_count() or 1) - 1),    
+
+            #use_cpu=True,           # Принудительно CPU
+            #bf16=True,              # Смешанная точность (для новых CPU)
+            #dataloader_num_workers=4, # Количество ядер
+            #dataloader_pin_memory=True,
+            #per_device_train_batch_size=8, 
+        )
+        return args
+
     # ==== training ====
     print("Create trainingArgs...", flush=True)
-    training_args = TrainingArguments(
-        output_dir="./tinyllama-json",
-        per_device_train_batch_size=1,
-        gradient_accumulation_steps=4,
-        num_train_epochs=2,
-        learning_rate=2e-4,
-        #logging_steps=10,
-        save_strategy="steps", #save_strategy="epoch",
-        save_steps=1,
-        report_to="none",
-        fp16=False,
-
-        logging_steps=1,  # Логировать каждые 10 шагов (по умолчанию 500)
-        logging_strategy="steps",
-        
-        #eval_strategy="no", #evaluation_strategy="no",  # Не выполнять оценку во время обучения
-        #do_train=True,
-        #do_eval=False, # Также убедитесь, что do_eval установлен в False
-        
-        #dataloader_pin_memory=False,
-        #dataloader_num_workers=0,
-        #dataloader_num_workers=max(1, 14) # (_cpu_count := os.cpu_count() or 1) - 1),    
-
-        #use_cpu=True,           # Принудительно CPU
-        #bf16=True,              # Смешанная точность (для новых CPU)
-        #dataloader_num_workers=4, # Количество ядер
-        #dataloader_pin_memory=True,
-        #per_device_train_batch_size=8, 
-    )
+    training_args = getAgrsForCpu()
 
     print("Create trainer...", flush=True)
     trainer = Trainer(
