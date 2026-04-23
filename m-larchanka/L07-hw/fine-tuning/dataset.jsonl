@@ -1,0 +1,300 @@
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 37+35?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"37+35 равно 72\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 13+46?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"13+46 равно 59\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 5+12?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"5+12 равно 17\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 40+31?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"40+31 равно 71\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 18+41?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"18+41 равно 59\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 14+34?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"14+34 равно 48\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 49+14?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"49+14 равно 63\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 26+21?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"26+21 равно 47\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 14+37?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"14+37 равно 51\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 11+20?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"11+20 равно 31\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 18+3?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"18+3 равно 21\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 44+38?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"44+38 равно 82\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 40+18?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"40+18 равно 58\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 2+44?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"2+44 равно 46\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 47+30?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"47+30 равно 77\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 16+48?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"16+48 равно 64\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 23+1?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"23+1 равно 24\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 14+8?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"14+8 равно 22\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 20+5?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"20+5 равно 25\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 11+30?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"11+30 равно 41\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 19+23?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"19+23 равно 42\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 3+46?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"3+46 равно 49\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 22+8?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"22+8 равно 30\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 31+35?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"31+35 равно 66\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 17+5?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"17+5 равно 22\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 31+22?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"31+22 равно 53\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 46+7?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"46+7 равно 53\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 25+15?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"25+15 равно 40\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 24+49?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"24+49 равно 73\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 25+32?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"25+32 равно 57\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 26+37?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"26+37 равно 63\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 19+9?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"19+9 равно 28\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 5+15?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"5+15 равно 20\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 31+35?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"31+35 равно 66\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 26+32?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"26+32 равно 58\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 18+11?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"18+11 равно 29\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 14+29?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"14+29 равно 43\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 40+14?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"40+14 равно 54\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 22+9?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"22+9 равно 31\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 10+14?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"10+14 равно 24\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 48+35?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"48+35 равно 83\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 11+43?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"11+43 равно 54\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 32+14?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"32+14 равно 46\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 3+32?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"3+32 равно 35\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 35+24?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"35+24 равно 59\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 25+36?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"25+36 равно 61\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 2+33?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"2+33 равно 35\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 14+23?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"14+23 равно 37\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 36+44?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"36+44 равно 80\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 34+3?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"34+3 равно 37\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 9+48?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"9+48 равно 57\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 22+46?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"22+46 равно 68\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 43+6?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"43+6 равно 49\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 18+23?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"18+23 равно 41\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 17+26?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"17+26 равно 43\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 42+47?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"42+47 равно 89\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 32+50?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"32+50 равно 82\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 28+2?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"28+2 равно 30\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 17+11?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"17+11 равно 28\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 11+11?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"11+11 равно 22\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 5+34?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"5+34 равно 39\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 13+27?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"13+27 равно 40\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 18+22?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"18+22 равно 40\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 33+9?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"33+9 равно 42\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 35+5?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"35+5 равно 40\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 7+21?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"7+21 равно 28\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 18+36?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"18+36 равно 54\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 15+50?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"15+50 равно 65\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 23+13?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"23+13 равно 36\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 6+30?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"6+30 равно 36\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 37+17?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"37+17 равно 54\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 5+48?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"5+48 равно 53\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 27+22?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"27+22 равно 49\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 29+50?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"29+50 равно 79\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 43+48?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"43+48 равно 91\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 14+45?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"14+45 равно 59\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 5+35?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"5+35 равно 40\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 31+34?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"31+34 равно 65\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 21+49?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"21+49 равно 70\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 31+18?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"31+18 равно 49\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 24+23?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"24+23 равно 47\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 20+43?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"20+43 равно 63\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 1+3?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"1+3 равно 4\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 30+13?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"30+13 равно 43\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 44+21?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"44+21 равно 65\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 2+1?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"2+1 равно 3\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 31+8?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"31+8 равно 39\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 38+33?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"38+33 равно 71\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 22+35?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"22+35 равно 57\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 31+43?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"31+43 равно 74\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 18+18?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"18+18 равно 36\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 38+6?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"38+6 равно 44\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 45+24?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"45+24 равно 69\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 17+45?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"17+45 равно 62\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 24+25?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"24+25 равно 49\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 45+1?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"45+1 равно 46\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 2+8?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"2+8 равно 10\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 43+42?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"43+42 равно 85\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 40+34?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"40+34 равно 74\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 33+9?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"33+9 равно 42\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 47+8?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"47+8 равно 55\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 27+40?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"27+40 равно 67\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 43+27?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"43+27 равно 70\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 38+49?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"38+49 равно 87\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 8+11?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"8+11 равно 19\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 50+19?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"50+19 равно 69\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 37+16?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"37+16 равно 53\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 30+19?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"30+19 равно 49\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 1+19?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"1+19 равно 20\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 29+49?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"29+49 равно 78\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 41+45?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"41+45 равно 86\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 40+5?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"40+5 равно 45\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 45+32?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"45+32 равно 77\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 8+49?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"8+49 равно 57\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 11+36?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"11+36 равно 47\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 23+36?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"23+36 равно 59\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 25+32?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"25+32 равно 57\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 24+32?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"24+32 равно 56\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 50+40?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"50+40 равно 90\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 6+7?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"6+7 равно 13\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 22+5?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"22+5 равно 27\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 43+40?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"43+40 равно 83\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 30+13?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"30+13 равно 43\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 15+19?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"15+19 равно 34\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 13+48?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"13+48 равно 61\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 11+17?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"11+17 равно 28\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 14+27?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"14+27 равно 41\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 21+44?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"21+44 равно 65\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 39+43?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"39+43 равно 82\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 11+4?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"11+4 равно 15\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 19+33?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"19+33 равно 52\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 4+26?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"4+26 равно 30\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 26+8?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"26+8 равно 34\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 11+2?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"11+2 равно 13\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 17+5?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"17+5 равно 22\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 28+35?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"28+35 равно 63\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 34+13?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"34+13 равно 47\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 8+34?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"8+34 равно 42\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 38+45?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"38+45 равно 83\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 13+42?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"13+42 равно 55\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 44+46?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"44+46 равно 90\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 28+50?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"28+50 равно 78\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 13+44?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"13+44 равно 57\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 46+25?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"46+25 равно 71\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 39+41?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"39+41 равно 80\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 30+31?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"30+31 равно 61\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 6+38?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"6+38 равно 44\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 44+42?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"44+42 равно 86\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 38+20?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"38+20 равно 58\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 37+24?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"37+24 равно 61\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 26+12?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"26+12 равно 38\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 39+6?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"39+6 равно 45\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 12+5?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"12+5 равно 17\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 3+39?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"3+39 равно 42\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 46+6?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"46+6 равно 52\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 2+27?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"2+27 равно 29\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 29+24?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"29+24 равно 53\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 2+49?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"2+49 равно 51\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 10+42?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"10+42 равно 52\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 46+37?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"46+37 равно 83\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 4+17?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"4+17 равно 21\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 31+40?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"31+40 равно 71\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 15+1?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"15+1 равно 16\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 2+5?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"2+5 равно 7\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 18+16?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"18+16 равно 34\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 10+39?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"10+39 равно 49\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 13+6?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"13+6 равно 19\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 35+13?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"35+13 равно 48\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 1+46?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"1+46 равно 47\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 11+1?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"11+1 равно 12\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 48+21?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"48+21 равно 69\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 31+13?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"31+13 равно 44\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 46+22?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"46+22 равно 68\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 20+40?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"20+40 равно 60\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 12+29?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"12+29 равно 41\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 3+28?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"3+28 равно 31\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 6+1?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"6+1 равно 7\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 40+39?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"40+39 равно 79\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 23+41?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"23+41 равно 64\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 42+38?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"42+38 равно 80\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 22+30?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"22+30 равно 52\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 7+28?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"7+28 равно 35\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 36+31?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"36+31 равно 67\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 21+48?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"21+48 равно 69\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 43+37?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"43+37 равно 80\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 44+7?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"44+7 равно 51\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 2+10?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"2+10 равно 12\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 15+29?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"15+29 равно 44\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 39+15?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"39+15 равно 54\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 25+21?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"25+21 равно 46\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 19+20?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"19+20 равно 39\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 16+38?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"16+38 равно 54\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 6+4?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"6+4 равно 10\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 23+23?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"23+23 равно 46\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 49+4?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"49+4 равно 53\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 43+27?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"43+27 равно 70\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 27+29?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"27+29 равно 56\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 2+8?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"2+8 равно 10\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 24+49?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"24+49 равно 73\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 8+29?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"8+29 равно 37\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 36+14?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"36+14 равно 50\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 48+29?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"48+29 равно 77\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 21+5?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"21+5 равно 26\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 12+35?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"12+35 равно 47\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 6+30?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"6+30 равно 36\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 22+40?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"22+40 равно 62\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 40+49?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"40+49 равно 89\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 9+46?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"9+46 равно 55\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 47+11?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"47+11 равно 58\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 21+18?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"21+18 равно 39\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 27+21?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"27+21 равно 48\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 6+10?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"6+10 равно 16\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 11+40?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"11+40 равно 51\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 44+39?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"44+39 равно 83\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 9+26?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"9+26 равно 35\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 30+49?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"30+49 равно 79\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 2+8?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"2+8 равно 10\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 49+42?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"49+42 равно 91\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 30+35?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"30+35 равно 65\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 23+17?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"23+17 равно 40\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 15+10?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"15+10 равно 25\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 11+29?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"11+29 равно 40\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 26+40?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"26+40 равно 66\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 28+17?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"28+17 равно 45\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 44+33?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"44+33 равно 77\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 10+31?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"10+31 равно 41\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 15+3?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"15+3 равно 18\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 50+35?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"50+35 равно 85\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 39+24?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"39+24 равно 63\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 22+36?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"22+36 равно 58\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 50+16?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"50+16 равно 66\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 34+37?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"34+37 равно 71\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 14+5?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"14+5 равно 19\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 23+50?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"23+50 равно 73\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 22+35?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"22+35 равно 57\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 5+9?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"5+9 равно 14\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 28+33?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"28+33 равно 61\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 8+4?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"8+4 равно 12\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 45+19?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"45+19 равно 64\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 39+30?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"39+30 равно 69\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 2+29?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"2+29 равно 31\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 3+6?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"3+6 равно 9\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 20+41?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"20+41 равно 61\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 20+35?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"20+35 равно 55\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 15+27?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"15+27 равно 42\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 2+41?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"2+41 равно 43\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 35+14?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"35+14 равно 49\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 23+28?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"23+28 равно 51\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 33+30?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"33+30 равно 63\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 12+32?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"12+32 равно 44\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 49+39?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"49+39 равно 88\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 40+14?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"40+14 равно 54\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 26+29?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"26+29 равно 55\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 44+41?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"44+41 равно 85\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 14+35?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"14+35 равно 49\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 5+4?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"5+4 равно 9\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 43+50?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"43+50 равно 93\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 11+16?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"11+16 равно 27\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 1+41?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"1+41 равно 42\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 48+10?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"48+10 равно 58\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 24+1?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"24+1 равно 25\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 32+6?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"32+6 равно 38\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 41+24?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"41+24 равно 65\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 12+18?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"12+18 равно 30\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 29+5?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"29+5 равно 34\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 6+37?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"6+37 равно 43\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 42+25?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"42+25 равно 67\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 13+37?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"13+37 равно 50\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 47+3?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"47+3 равно 50\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 15+17?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"15+17 равно 32\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 43+49?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"43+49 равно 92\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 30+50?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"30+50 равно 80\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 40+19?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"40+19 равно 59\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 35+31?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"35+31 равно 66\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 19+4?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"19+4 равно 23\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 5+7?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"5+7 равно 12\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 41+43?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"41+43 равно 84\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 49+28?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"49+28 равно 77\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 36+12?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"36+12 равно 48\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 43+46?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"43+46 равно 89\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 9+28?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"9+28 равно 37\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 21+45?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"21+45 равно 66\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 31+44?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"31+44 равно 75\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 21+21?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"21+21 равно 42\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 6+33?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"6+33 равно 39\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 28+26?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"28+26 равно 54\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 38+18?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"38+18 равно 56\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 26+40?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"26+40 равно 66\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 46+36?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"46+36 равно 82\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 38+31?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"38+31 равно 69\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 17+24?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"17+24 равно 41\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 31+18?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"31+18 равно 49\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 25+36?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"25+36 равно 61\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 17+38?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"17+38 равно 55\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 26+2?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"26+2 равно 28\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 18+40?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"18+40 равно 58\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 14+2?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"14+2 равно 16\"}\n"}
+{"text": "### Instruction:\nВерни только JSON объект\n### Input:\nСколько будет 5+28?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"5+28 равно 33\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 42+4?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"42+4 равно 46\"}\n"}
+{"text": "### Instruction:\nОтветь строго в JSON формате\n### Input:\nСколько будет 40+41?\n### Response:\n{\"model\": \"tinyllama\", \"type\": \"response\", \"message\": \"40+41 равно 81\"}\n"}
